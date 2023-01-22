@@ -2,8 +2,8 @@
 
  <div align="center">
    <a href="https://github.com/llip3">
-   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=llip3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llip3&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="140" src="https://github-readme-stats.vercel.app/api?username=llip3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llip3&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
